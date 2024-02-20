@@ -22,6 +22,10 @@
   <project name="hobot-utils" path="source/hobot-utils"/>
   <project name="hobot-wifi" path="source/hobot-wifi"/>
   <project name="kernel" path="source/kernel"/>
+  <project name="hobot-miniboot" path="source/hobot-miniboot"/>
+  <project name="hobot-audio-config" path="source/hobot-audio-config"/>
+  <project name="bootloader" path="source/bootloader"/>
+  <project name="uboot" path="source/bootloader/uboot"/>
 
   <project name="rdk-gen" path="."/>
 </manifest>
